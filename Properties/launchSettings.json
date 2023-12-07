@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NimbusCreateGenericTCPEvent": {
+      "commandName": "Project",
+      "commandLineArgs": "t0 ta0220gt81 t4 \"de-scrip tion\" status 1 serveraddress 192.168.123.84:15000 1234"
+    }
+  }
+}
